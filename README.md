@@ -1,3 +1,3 @@
-FooCoin (FOO)
+PleaseCoin (PLS)
 
 Blah, blah, blah.
